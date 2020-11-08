@@ -9,7 +9,7 @@ function App() {
       </div>
       <div className="calculator">
         <h1>R.O.I calculator</h1>
-        <p style={{ marginBottom: 60 }}>
+        <p style={{ marginBottom: 60, fontSize: 16 }}>
           Work out how much you could be saving in time and investment.
         </p>
         <div className="row">
