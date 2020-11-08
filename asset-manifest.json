@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/payapps-roi-calculator/static/css/main.b9be9010.chunk.css",
+    "main.js": "/payapps-roi-calculator/static/js/main.73a88e81.chunk.js",
+    "main.js.map": "/payapps-roi-calculator/static/js/main.73a88e81.chunk.js.map",
+    "runtime-main.js": "/payapps-roi-calculator/static/js/runtime-main.60b289e6.js",
+    "runtime-main.js.map": "/payapps-roi-calculator/static/js/runtime-main.60b289e6.js.map",
+    "static/js/2.0ad3d66a.chunk.js": "/payapps-roi-calculator/static/js/2.0ad3d66a.chunk.js",
+    "static/js/2.0ad3d66a.chunk.js.map": "/payapps-roi-calculator/static/js/2.0ad3d66a.chunk.js.map",
+    "static/js/3.868beb06.chunk.js": "/payapps-roi-calculator/static/js/3.868beb06.chunk.js",
+    "static/js/3.868beb06.chunk.js.map": "/payapps-roi-calculator/static/js/3.868beb06.chunk.js.map",
+    "index.html": "/payapps-roi-calculator/index.html",
+    "static/css/main.b9be9010.chunk.css.map": "/payapps-roi-calculator/static/css/main.b9be9010.chunk.css.map",
+    "static/js/2.0ad3d66a.chunk.js.LICENSE.txt": "/payapps-roi-calculator/static/js/2.0ad3d66a.chunk.js.LICENSE.txt",
+    "static/media/logo.6395fa73.svg": "/payapps-roi-calculator/static/media/logo.6395fa73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b289e6.js",
+    "static/js/2.0ad3d66a.chunk.js",
+    "static/css/main.b9be9010.chunk.css",
+    "static/js/main.73a88e81.chunk.js"
+  ]
+}
