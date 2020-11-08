@@ -57,7 +57,7 @@ h1 {
   flex-grow: 1;
 }
 .col1, .col2 {
-  width: 100px;
+  width: 130px;
 }
 .col1 {
   background: rgba(255, 255, 255, 0.06);
